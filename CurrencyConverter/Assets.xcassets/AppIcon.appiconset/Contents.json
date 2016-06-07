@@ -3,49 +3,49 @@
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "Icon-Settings@2x.png",
+      "filename" : "Currency_Exchange-50-58.png",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "Icon-Settings@3x.png",
+      "filename" : "Currency_Exchange-50-87.png",
       "scale" : "3x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "Icon-Spotlight-iPhone-4-5.png",
+      "filename" : "Currency_Exchange-50-80.png",
       "scale" : "2x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "Icon-Spotlight-iPhone-6.png",
+      "filename" : "Currency_Exchange-50-120.png",
       "scale" : "3x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Icon-Spotlight@2x.png",
+      "filename" : "Currency_Exchange-50-121.png",
       "scale" : "2x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Icon-Spotlight@3x.png",
+      "filename" : "Currency_Exchange-50-180.png",
       "scale" : "3x"
     },
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "Icon-Settings.png",
+      "filename" : "Currency_Exchange-50-29.png",
       "scale" : "1x"
     },
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "Icon-Settings@2x-1.png",
+      "filename" : "Currency_Exchange-50-59.png",
       "scale" : "2x"
     },
     {
@@ -57,25 +57,25 @@
     {
       "size" : "40x40",
       "idiom" : "ipad",
-      "filename" : "Icon-Spotlight-iPhone-4-6.png",
+      "filename" : "Currency_Exchange-50-81.png",
       "scale" : "2x"
     },
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "Icon-App-iPad.png",
+      "filename" : "Currency_Exchange-50-76.png",
       "scale" : "1x"
     },
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "Icon-App-iPad@2x.png",
+      "filename" : "Currency_Exchange-50-152.png",
       "scale" : "2x"
     },
     {
       "size" : "83.5x83.5",
       "idiom" : "ipad",
-      "filename" : "Icon-App-iPad-Pro.png",
+      "filename" : "Currency_Exchange-50-167.png",
       "scale" : "2x"
     }
   ],
