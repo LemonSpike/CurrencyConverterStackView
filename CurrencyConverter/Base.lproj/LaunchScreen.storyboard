@@ -13,17 +13,18 @@
                         <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
                         <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
                     </layoutGuides>
-                    <view key="view" alpha="0.5" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                    <view key="view" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LaunchImage" translatesAutoresizingMaskIntoConstraints="NO" id="9yC-5z-VD7">
-                                <rect key="frame" x="81" y="222" width="439" height="157"/>
-                                <color key="backgroundColor" red="1" green="0.47989206839999998" blue="0.1062409817" alpha="1" colorSpace="calibratedRGB"/>
+                            <imageView opaque="NO" clearsContextBeforeDrawing="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="Lightning.png" highlightedImage="Lightning.png" translatesAutoresizingMaskIntoConstraints="NO" id="9yC-5z-VD7">
+                                <rect key="frame" x="251" y="251" width="100" height="100"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.40000000600000002" green="0.80000001190000003" blue="1" alpha="0.5" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="1" green="0.47989206839999998" blue="0.1062409817" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="9yC-5z-VD7" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="1lc-jS-m9K"/>
                             <constraint firstItem="9yC-5z-VD7" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="kKr-K7-O3o"/>
@@ -36,6 +37,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="LaunchImage" width="439" height="157"/>
+        <image name="Lightning.png" width="100" height="100"/>
     </resources>
 </document>

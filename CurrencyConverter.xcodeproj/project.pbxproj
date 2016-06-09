@@ -13,6 +13,7 @@
 		4E0EE0381CFDC7B80031E78A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E0EE0371CFDC7B80031E78A /* Assets.xcassets */; };
 		4E0EE03B1CFDC7B80031E78A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E0EE0391CFDC7B80031E78A /* LaunchScreen.storyboard */; };
 		4E0EE0471CFDCBB60031E78A /* pound-yen-euro-dollar.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E0EE0461CFDCBB60031E78A /* pound-yen-euro-dollar.png */; };
+		4E2DEBAD1D0876E900ED8E07 /* Lightning.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E2DEBAC1D0876E900ED8E07 /* Lightning.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4E0EE03A1CFDC7B80031E78A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E0EE03C1CFDC7B80031E78A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E0EE0461CFDCBB60031E78A /* pound-yen-euro-dollar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pound-yen-euro-dollar.png"; sourceTree = "<group>"; };
+		4E2DEBAC1D0876E900ED8E07 /* Lightning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Lightning.png; path = "my_basename 2/sizes/Lightning.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4E0EE0341CFDC7B80031E78A /* Main.storyboard */,
 				4E0EE0371CFDC7B80031E78A /* Assets.xcassets */,
 				4E0EE0391CFDC7B80031E78A /* LaunchScreen.storyboard */,
+				4E2DEBAC1D0876E900ED8E07 /* Lightning.png */,
 				4E0EE0461CFDCBB60031E78A /* pound-yen-euro-dollar.png */,
 				4E0EE03C1CFDC7B80031E78A /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E0EE03B1CFDC7B80031E78A /* LaunchScreen.storyboard in Resources */,
+				4E2DEBAD1D0876E900ED8E07 /* Lightning.png in Resources */,
 				4E0EE0381CFDC7B80031E78A /* Assets.xcassets in Resources */,
 				4E0EE0471CFDCBB60031E78A /* pound-yen-euro-dollar.png in Resources */,
 				4E0EE0361CFDC7B80031E78A /* Main.storyboard in Resources */,
